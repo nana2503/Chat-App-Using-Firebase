@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "129717270296",
+    "firebase_url": "https://demoreactnative-d4fce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demoreactnative-d4fce",
+    "storage_bucket": "demoreactnative-d4fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129717270296:android:c8bece396bdc227cc0906d",
+        "android_client_info": {
+          "package_name": "com.demoreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2C46r1XrHU-FB5R7x_sLVbBVpn7SldeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
